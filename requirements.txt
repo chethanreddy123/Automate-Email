@@ -34,5 +34,4 @@ joblib==1.1.0
 jsons==1.6.3
 scikit-learn==1.1.1
 email==4.0.2
-smtplib
 ssl==1.16
