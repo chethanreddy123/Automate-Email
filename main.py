@@ -38,7 +38,7 @@ async def getInfo(info: Request):
     Student of Grade:%s
     '''%(Name,Pemail, PhoneNo,Grade)
 
-    email_receiver = "achethanreddy1921@gmail.com"
+    email_receiver = "Shobhayadav@robogems.com"
 
     em = EmailMessage()
     em['From'] = email_sender
